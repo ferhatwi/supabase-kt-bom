@@ -3,5 +3,5 @@ Platform dependency for Supabase libraries. Declaring this is not required, but 
 ## Download
 ```groovy
 dependencies {
- implementation "io.github.ferhatwi:supabase-kt-bom:0.1.1"
+ implementation "io.github.ferhatwi:supabase-kt-bom:0.1.2"
 } 
