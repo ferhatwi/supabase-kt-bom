@@ -21,7 +21,7 @@ publishing {
                 from(components["javaPlatform"])
                 groupId = "io.github.ferhatwi"
                 artifactId = "supabase-kt-bom"
-                version = "0.1.0"
+                version = "0.1.1"
                 name.set("Supabase BOM")
                 description.set("Supabase BOM")
                 url.set("http://www.github.com/ferhatwi/supabase-kt-bom")
@@ -64,7 +64,7 @@ dependencies {
     constraints {
         api("io.github.ferhatwi:supabase-auth-kt:0.1.0")
         api("io.github.ferhatwi:supabase-storage-kt:0.1.0")
-        api("io.github.ferhatwi:supabase-database-kt:0.3.0")
+        api("io.github.ferhatwi:supabase-database-kt:0.3.1")
     }
 
     api("io.ktor:ktor-client-core:1.6.7")
