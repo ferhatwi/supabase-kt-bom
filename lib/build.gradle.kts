@@ -21,7 +21,7 @@ publishing {
                 from(components["javaPlatform"])
                 groupId = "io.github.ferhatwi"
                 artifactId = "supabase-kt-bom"
-                version = "0.1.5"
+                version = "0.1.6"
                 name.set("Supabase BOM")
                 description.set("Supabase BOM")
                 url.set("http://www.github.com/ferhatwi/supabase-kt-bom")
