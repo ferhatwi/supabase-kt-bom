@@ -60,6 +60,6 @@ dependencies {
     constraints {
         api("io.github.ferhatwi:supabase-auth-kt:0.1.2")
         api("io.github.ferhatwi:supabase-storage-kt:0.1.2")
-        api("io.github.ferhatwi:supabase-database-kt:0.3.5")
+        api("io.github.ferhatwi:supabase-database-kt:0.4.0")
     }
 }
